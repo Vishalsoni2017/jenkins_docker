@@ -1,1 +1,2 @@
-D
+FROM ubunutu
+CMD "bash"
